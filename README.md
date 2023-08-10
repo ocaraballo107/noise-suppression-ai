@@ -1,8 +1,4 @@
-# noise-suppression-ai
-
-Noise Suppression AI using Convolutional Neural Networks
-
-# Noise Suppressor using Convolutional Neural Networks
+# Noise Suppressor AI using Convolutional Neural Networks
 
 This project demonstrates the implementation of a Noise Suppressor using Convolutional Neural Networks (CNNs) with fully connected layers, ReLU activation, batch normalization, and a regression layer. The aim of this project is to clean noisy speech signals by training a CNN model.
 
@@ -25,11 +21,11 @@ These instructions will guide you through setting up and running the Noise Suppr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/noise-suppressor-cnn.git
+   git clone https://github.com/ocaraballo107/noise-suppressor-ai.git
 
 ### Navigate to the project directory
 
-cd noise-suppressor-cnn
+cd noise-suppressor-ai
 
 ### Create and activate a virtual environment (recommended)
 
