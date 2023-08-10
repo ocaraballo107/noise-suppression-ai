@@ -38,10 +38,10 @@ pip install -r requirements.txt
 
 ### Usage
 
-Prepare your training and testing data (noisy speech and clean speech).
-Replace X_data and y_data in the code with your actual preprocessed data.
-Run the main script to train the model and evaluate its performance: python noise_suppressor.py
-The script will print training progress, validation loss, test loss, and minimum loss achieved.
+- Prepare your training and testing data (noisy speech and clean speech).
+- Replace X_data and y_data in the code with your actual preprocessed data.
+- Run the main script to train the model and evaluate its performance: python noise_suppressor.py
+- The script will print training progress, validation loss, test loss, and minimum loss achieved.
 
 ### Results
 
